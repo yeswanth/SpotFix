@@ -1,0 +1,13 @@
+.DS_Store
+
+# Python 
+*py[cod]
+env/
+
+
+# VIM
+.*sw*
+
+# Gedit 
+*~
+*.sqlite3
